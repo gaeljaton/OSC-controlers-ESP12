@@ -1,7 +1,7 @@
 # OSC-controlers-ESP12
 various diy open_sound_control (OSC) controlers based on ESP8266 (esp12)<br />
 <br />
-Some home made osc controlers with accelerometer, breath control (pressure sensor) and other sensors
+Some home made osc controlers with accelerometer, breath control (pressure sensor) and other sensors<br />
 Required :<br />
 *ESP 12 board (nodemcu, wemos, ESPino...) or ESP32<br />
 *I2C sensors : MPU-6050 (accel), nunchuck nintendo, pressure sensor, TTP229 (16 touch sensor)...<br />
